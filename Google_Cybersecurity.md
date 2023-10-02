@@ -1,0 +1,2 @@
+I have obtained a Google Cybersecurity Professional Certificate, which can be viewed <a href="https://www.credly.com/org/coursera/badge/google-cybersecurity-certificate-comptia-security-d">here.</a>
+If you're intersted in seeing the work that I have done for the certificate, you can click <a href="https://drive.google.com/drive/folders/1_idE9tZR7g80u0t6kQ_gw-zcDpC4hmY-?usp=drive_link">here</a> to check out the Google Drive folder containing these files.
