@@ -1,6 +1,6 @@
 ---
 #  👋 Hello!
-🎓Queens College Class of 2023<br>💻 Bachelor of Arts in Computer Science<br>👩‍💻 Happily coding since 2018<br>
+<a href="https://www.parchment.com/u/award/d26e39e2a1f0eaf9b07eb0e4946e18d2">🎓Queens College Class of 2023</a><br>💻 Bachelor of Arts in Computer Science<br>👩‍💻 Happily coding since 2018<br>
 
 **Certified in Google cybersecurity and IBM software engineering**<br>
 [<img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" height="100">](https://www.credly.com/earner/earned/badge/aab84366-9a4a-4d4f-a2e3-2cddc2d2c115)
