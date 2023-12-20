@@ -14,5 +14,5 @@ If you're interested in seeing the work that I have done for this certificate, y
 
 - <a href="https://github.com/alyssarose05/github-final-project">github-final-project</a>
 - <a href="https://github.com/alyssarose05/jbbmo-Introduction-to-Git-and-GitHub">jbbmo-Introduction-to-Git-and-GitHub</a>
-- <a href="https://github.com/alyssarose05/gkpbt-css-circle:>gkpbt-css-circle</a>
+- <a href="https://github.com/alyssarose05/gkpbt-css-circle">gkpbt-css-circle</a>
 - <a href="https://github.com/alyssarose05/IBM_SE">IBM_SE</a>
