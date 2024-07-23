@@ -2,10 +2,10 @@
 # Certificates
 
 ## IBM Applied Software Engineering Fundamentals Specialization
-Click <a href="https://drive.google.com/drive/folders/142eGGTFFCw2tVyDQCPGU6nH35XTBMVwI?usp=sharing">here</a> to view my Google Drive portfolio.
+Click <a href="https://drive.google.com/drive/folders/142eGGTFFCw2tVyDQCPGU6nH35XTBMVwI?usp=sharing">here</a> to view my Google Drive work.
 
 ## Google Cybersecurity Professional Certificate
-Click <a href="https://drive.google.com/drive/folders/1WIdc0VaGFlZBxAFYznHZMUDHPr_8XE5f?usp=sharing">here</a> to view my Google Drive portfolio.
+Click <a href="https://drive.google.com/drive/folders/1WIdc0VaGFlZBxAFYznHZMUDHPr_8XE5f?usp=sharing">here</a> to view my Google Drive work.
 
 ---
 
