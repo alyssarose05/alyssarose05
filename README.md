@@ -7,8 +7,7 @@
 
 
 **Software:**<br>
-[![My Skills](https://skillicons.dev/icons?i=eclipse,androidstudio,windows,linux,git)](https://skillicons.dev)
- <br>
+[![My Skills](https://skillicons.dev/icons?i=eclipse,androidstudio,windows,linux,git)](https://skillicons.dev) <br>*Also Microsoft Excel and Macola/WiSys*<br>
 
 **Contact me:**<br>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alyssaayala1105/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:alyssa.ayala@live.com)
