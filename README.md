@@ -1,12 +1,8 @@
 ---
 #  Hi hi 👋
-<b>I'm Alyssa (she/her)</b> - I have been coding since my adolescent years, giving me years of experience in all sorts of code. I briefly explored batch script during middle school, which inspired me to study AP Computer Science A during high school. Then I majored in Computer Science during college.
+<b>I'm Alyssa (she/her)</b> - I'm a reecnt college graduate from CUNY Queens College with a Bachelor of Arts in Computer Science. I'm mainly interested in data-driven fields like **Data Analytics** and **Data Science**, with industries like **Technology**, **Marketing**, and **Finance** being in my radar. I explored them first-hand during my Data Analytics fellowship with COOP Careers, and I will be continuing during my time as a Student Consultant with The Build Fellowship! Please explore what I have here in the meantime, and stay tuned for more!
 
-**Languages:**<br>
-[![My Skills](https://skillicons.dev/icons?i=java,python,r,c,cpp)](https://skillicons.dev) <br>*Also SQL*<br>
-
-**Software:**<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,eclipse,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,gcp,windows,git&theme=dark)](https://skillicons.dev)
 
 **Contact me:**<br>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alyssaayala1105/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:alyssa.alyssa1105@gmail.com)
