@@ -1,4 +1,0 @@
-Ayala Alyssa 0001 250.0
-Smith John 0002 6745.0
-Smith Finn 0004 567.0
-Anderson Andy 0003 578.0
