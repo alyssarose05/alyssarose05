@@ -25,7 +25,7 @@ As I initially graduated with a degree in Computer Science, my tech background e
 https://www.alyssaayala.com
 
 ### My other links
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyssa.alyssa1105@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyssaayala1105) [![tableaupublic](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alyssa.ayala/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyssaayala1105) [![tableaupublic](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alyssa.ayala/)
 
 _1/11/26: I am open to relevant **full-time positions**, either in NYC; hybrid or remote preferred. Recruiters and hiring managers may contact me based on the contact information above._
 
