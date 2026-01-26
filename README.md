@@ -11,7 +11,7 @@ As I initially graduated with a degree in Computer Science, my tech background e
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![bigquery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Other programming skills
-![java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![VBA](https://img.shields.io/badge/VBA/Macros-9F2B68?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 
 ## Favorite non-programming tools
 ### Data visualization & analysis
