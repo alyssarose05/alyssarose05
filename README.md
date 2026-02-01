@@ -21,12 +21,12 @@ As I initially graduated with a degree in Computer Science, my tech background e
 ![googleads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![google_analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![hubspot](https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) ![semrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
 
 ## Contact Me
-### My own website!
+### My own portfolio website!
 https://www.alyssaayala.com
 
 ### My other links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyssaayala1105) [![tableaupublic](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alyssa.ayala/)
 
-_1/11/26: I am open to relevant **full-time positions**, either in NYC; hybrid or remote preferred. Recruiters and hiring managers may contact me based on the contact information above._
+_Feb. 1, 2026: I am open to relevant **permanent full-time positions**, either in NYC or remote. Recruiters and hiring managers may contact me based on the contact information above._
 
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
