@@ -4,11 +4,6 @@ We all strive for a predictable and linear journey, yet mine has been anything b
 
 Today, this GitHub profile serves as a place to showcase my past coding projects (and current, if any!). To summarize my experience, **Java** is my strongest language, while Python and R are very useful as a Data Scientist! Coding is also relevant when it comes to SQL for databases, and Excel for data cleaning and other activities. Please look around!
 
-## YOUR SECURITY IS MY #1 PRIORITY. ALWAYS.
-I do not make money off of any of these projects, where they are for **PERSONAL OR SCHOOL PURPOSES, ONLY.** Any risk to you or others is **ACCIDENTAL AND NOT INTENTIONAL.** I am not an expert on API keys, copyright, etc. 
-
-If you see something that exposes something sensitive or is otherwise irresponsibly used, **PLEASE, PLEASE REPORT AN ISSUE TO ME THROUGH [THIS FORM](https://forms.gle/pyRaPjCRLm5gcTZx5) FOR PROMPT COMPLIANCE.**
-
 ## Programming Tools
 
 ### Post-Grad Tools
@@ -34,5 +29,10 @@ https://www.alyssaayala.com
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyssaayala1105) [![tableaupublic](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alyssa.ayala/)
 
 _Mar. 14, 2026: I am open to relevant **permanent full-time positions**, either in NYC or remote. Recruiters and hiring managers may contact me based on the contact information above._
+
+## YOUR SECURITY IS MY #1 PRIORITY
+I do not make money off of any of these projects, where they are for **PERSONAL OR SCHOOL PURPOSES, ONLY.** Any risk to you or others is **ACCIDENTAL AND NOT INTENTIONAL.** I am not an expert on API keys, copyright, etc. 
+
+If you see something that exposes something sensitive or is otherwise irresponsibly used, **PLEASE, PLEASE REPORT AN ISSUE TO ME THROUGH [THIS FORM](https://forms.gle/pyRaPjCRLm5gcTZx5) FOR PROMPT COMPLIANCE.**
 
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
