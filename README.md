@@ -33,6 +33,6 @@ _Mar. 14, 2026: I am open to relevant **permanent full-time positions**, either 
 ## YOUR SECURITY IS MY #1 PRIORITY
 I do not make money off of any of these projects, where they are for **PERSONAL OR SCHOOL PURPOSES, ONLY.** Any risk to you or others is **ACCIDENTAL AND NOT INTENTIONAL.** I am not an expert on API keys, copyright, etc. 
 
-If you see something that exposes something sensitive or is otherwise irresponsibly used, **PLEASE, PLEASE REPORT AN ISSUE TO ME THROUGH [THIS FORM](https://forms.gle/pyRaPjCRLm5gcTZx5) FOR PROMPT COMPLIANCE.**
+If you see something that exposes something sensitive or is otherwise irresponsibly used, **PLEASE REPORT AN ISSUE TO ME THROUGH [MY CONTACT FORM](https://www.alyssaayala.com/contact) FOR PROMPT COMPLIANCE**.
 
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
